@@ -1,10 +1,9 @@
-![XCryptoHunter](https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)
+![pixel-jeff-matrix-s.gif](https://github.com/IvanGeorgievProgramming/IvanGeorgievProgramming/blob/main/pixel-jeff-matrix-s.gif?raw=true)
+
 <h1 align="center">Hi 👋, I'm Ivan Georgiev</h1>
 <h3 align="center">A programmer from Bulgaria specializing in machine learning and full-stack web development.</h3>
 
 <br>
-
-<img align="right" alt="Coding" width="400" src="https://www.dice.com/binaries/medium/content/gallery/dice/insights/2017/05/shutterstock_390754486-e1495655228528.jpg">
 
 - 🔭 I’m currently working on **a ML project, Spring project and Flask project.**
 
